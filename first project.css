@@ -1,0 +1,121 @@
+body{
+    margin: 0px;
+}
+main{
+    margin-left: 20px;
+}
+h1:{
+    color: rgb(200, 255, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: rgb(232, 216, 195);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    
+}
+.navbar a{
+    color: rgb(0, 0, 0);
+    padding: 8px;
+    display: block;
+    text-align: left;
+    height: 30px;
+    text-decoration: none;
+    margin-right: 50px;
+}
+.nav a:hover{
+float: left;
+}
+.navbar li{
+    float: right;
+}
+.flot{
+    float: right; 
+}
+.ft{
+    font-size: 100px;
+    margin-top: 150px;
+    margin: 100px;
+    
+   
+}
+    
+.x{
+    
+    position: absolute;
+    top: 250px;
+    right: 10%;
+    width: 600px;
+    height: 400px;
+    margin-top: 40px;
+
+    
+    
+    
+}
+.btn {
+    border: 2px solid rgb(30, 203, 14);
+    background-color: rgb(13, 126, 196);
+    color: rgb(239, 240, 240);
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 0;
+    position: absolute;
+    top: 700px;
+    left: 13%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+    margin-top: 0px;
+    width:200px;
+    height: 60px;
+  }
+  .ser{
+    font-size: 60px;
+    color: black;
+    margin-top: 50px;
+    margin-left: 100px;
+    font-family: 'Trebuchet MS', sans-serif;
+  }
+  .width{
+    text-align: center;
+    
+  }
+ .ff{
+    margin-left: 100px;
+    margin-bottom: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ .lol{
+    margin: 0px;
+    margin-left: 100px;
+    margin-top: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 17px;
+    text-decoration: none;
+    
+ }
+ .loram{
+    margin-left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ .cap{
+    bottom: 240px;
+ }
+ 
+ .ds{
+color: aliceblue;
+font-size: x-small;
+margin-left: 560px;
+margin-bottom: 100px;
+ }
+.aaa{
+width: 350px;
+height: 400px;
+float: left;
+margin-left: 10px;
+}
